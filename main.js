@@ -1,0 +1,14 @@
+var firstname="Rohit";
+var lastname="sharma";
+var fullname=firstname.concat(lastname);
+       console.log(fullname);
+       var a = 10;
+       var b = 5;
+       var add = a + b;
+       console.log(add);
+       var subtract = a - b;
+       console.log(subtract);
+       var multiplacation = a * b;
+       console.log(multiplacation);
+       var division = a / b;
+       console.log(division);
